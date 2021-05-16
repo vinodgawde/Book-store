@@ -1,0 +1,15 @@
+6
+java
+programming language
+xws
+600
+7
+python
+programiing languge
+uio
+400
+8
+javascript
+scrip language
+sdw
+750
